@@ -21,6 +21,7 @@
 
 ## DevOps
 - Docker
+  - [Playlist Belajar Docker untuk Pemula (Programmer Zaman Now)[ID]](https://www.youtube.com/playlist?list=PL-CtdCApEFH-A7jBmdertzbeACuQWvQao) 
   - [Playlist Docker Giri Kuncoro [ID]](https://www.youtube.com/watch?v=d2oOFasv0B4&list=PL4SGTPmSY0qkxCTe3Gd0wA-bQZChXhsNI&ab_channel=GiriKuncoro)
 - Kubernetes
   - [Belajar Kubernetes dalam 10 menit (UNTUK PEMULA) [ID]](https://www.youtube.com/watch?v=1U7Zsazd96o&ab_channel=GiriKuncoro)

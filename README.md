@@ -48,7 +48,7 @@
 ## Mobile Development
 ### Flutter Frameworks
 - [Flutter documentation [EN]](https://github.com/SIC-Unud/sic-learning-resources)
-- [Effective dart](https://dart.dev/guides/language/effective-dart)
+- [Effective dart [EN]](https://dart.dev/guides/language/effective-dart)
 
 ### Design Principle
-- [Desing - Material Design](https://material.io/design)
+- [Desing - Material Design [EN]](https://material.io/design)

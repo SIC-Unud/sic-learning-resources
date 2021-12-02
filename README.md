@@ -24,9 +24,23 @@
   - [Playlist Docker Giri Kuncoro [ID]](https://www.youtube.com/watch?v=d2oOFasv0B4&list=PL4SGTPmSY0qkxCTe3Gd0wA-bQZChXhsNI&ab_channel=GiriKuncoro)
 - Kubernetes
   - [Belajar Kubernetes dalam 10 menit (UNTUK PEMULA) [ID]](https://www.youtube.com/watch?v=1U7Zsazd96o&ab_channel=GiriKuncoro)
+
 ## Frontend Development
+### Frontend Frameworks in English
+- [Next JS [Fireship.io] [EN]](https://www.youtube.com/watch?v=Sklc_fQBmcs&t=557s)
+- [React JS in 100 Seconds [Fireship.io] [EN]](https://www.youtube.com/watch?v=Tn6-PIqc4UM)
+- [Every React Hooks [Fireship.io] [EN]](https://www.youtube.com/watch?v=Tn6-PIqc4UM)
+- [Sekolah Koding React [ID]](https://www.youtube.com/watch?v=ZNVRETPPW24&list=PLCZlgfAG0GXALZIcEe2t3XVuQ50JYbsbA)
+
+### React Components
+- [Chakra-UI Docs [DOCS] [EN]](https://chakra-ui.com/docs/getting-started)
+
 ### Design Pattern
 - Atomic Design
   - [Brad Frost](https://bradfrost.com/blog/post/atomic-web-design/)
+
+### Additional Resource
+- [Flexbox in 15 Minutes [EN]](https://www.youtube.com/watch?v=fYq5PXgSsbE&t=483s)
+- [Flexbox Web Programming Unpas [ID]](https://www.youtube.com/watch?v=-J372iDFU8Y)
 
 ## Mobile Development

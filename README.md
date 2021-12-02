@@ -26,7 +26,7 @@
   - [Belajar Kubernetes dalam 10 menit (UNTUK PEMULA) [ID]](https://www.youtube.com/watch?v=1U7Zsazd96o&ab_channel=GiriKuncoro)
 
 ## Frontend Development
-### Frontend Frameworks in English
+### Frontend Frameworks
 - [Next JS [Fireship.io] [EN]](https://www.youtube.com/watch?v=Sklc_fQBmcs&t=557s)
 - [React JS in 100 Seconds [Fireship.io] [EN]](https://www.youtube.com/watch?v=Tn6-PIqc4UM)
 - [Every React Hooks [Fireship.io] [EN]](https://www.youtube.com/watch?v=Tn6-PIqc4UM)
@@ -42,5 +42,6 @@
 ### Additional Resource
 - [Flexbox in 15 Minutes [EN]](https://www.youtube.com/watch?v=fYq5PXgSsbE&t=483s)
 - [Flexbox Web Programming Unpas [ID]](https://www.youtube.com/watch?v=-J372iDFU8Y)
+- [CSS Grid](https://www.youtube.com/watch?v=uuOXPWCh-6o)
 
 ## Mobile Development

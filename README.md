@@ -23,6 +23,6 @@
 ## Frontend Development
 ### Design Pattern
 - Atomic Design
-  - [Bred Frost](https://bradfrost.com/blog/post/atomic-web-design/)
+  - [Brad Frost](https://bradfrost.com/blog/post/atomic-web-design/)
 
 ## Mobile Development

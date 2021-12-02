@@ -3,6 +3,7 @@
 ## General
 - GIT
   - [GIT & GITHUB By Web Programming Unpas [ID]](https://youtube.com/playlist?list=PLFIM0718LjIVknj6sgsSceMqlq242-jNf)
+  - [Pro Git Book [ID]](https://git-scm.com/book/id/v2)
 
 ## Backend Development
 ### Programming Languages
@@ -19,7 +20,10 @@
 ## Data Science
 
 ## DevOps
-
+- Docker
+  - [Playlist Docker Giri Kuncoro [ID]](https://www.youtube.com/watch?v=d2oOFasv0B4&list=PL4SGTPmSY0qkxCTe3Gd0wA-bQZChXhsNI&ab_channel=GiriKuncoro)
+- Kubernetes
+  - [Belajar Kubernetes dalam 10 menit (UNTUK PEMULA) [ID]](https://www.youtube.com/watch?v=1U7Zsazd96o&ab_channel=GiriKuncoro)
 ## Frontend Development
 ### Design Pattern
 - Atomic Design

@@ -4,7 +4,9 @@
 - GIT
   - [GIT & GITHUB By Web Programming Unpas [ID]](https://youtube.com/playlist?list=PLFIM0718LjIVknj6sgsSceMqlq242-jNf)
   - [Pro Git Book [ID]](https://git-scm.com/book/id/v2)
-
+- Design Pattern
+  - [Belajar Design Patterns untuk Pemula By Programmer Zaman Now [ID]](https://youtube.com/playlist?list=PL-CtdCApEFH_yiziXrQeogYOJzCmD8XLM)
+  - [Atomic Design By Brad Frost [EN]](https://bradfrost.com/blog/post/atomic-web-design/)
 ## Backend Development
 ### Programming Languages
 - Go (Golang)
@@ -17,6 +19,7 @@
 ### Database
 - Database Design
   - [Database Design By Caleb Curry [EN]](https://youtube.com/playlist?list=PL_c9BZzLwBRK0Pc28IdvPQizD2mJlgoID)
+
 ## Data Science
 
 ## DevOps
@@ -35,10 +38,6 @@
 
 ### React Components
 - [Chakra-UI Docs [DOCS] [EN]](https://chakra-ui.com/docs/getting-started)
-
-### Design Pattern
-- Atomic Design
-  - [Brad Frost](https://bradfrost.com/blog/post/atomic-web-design/)
 
 ### Additional Resource
 - [Flexbox in 15 Minutes [EN]](https://www.youtube.com/watch?v=fYq5PXgSsbE&t=483s)

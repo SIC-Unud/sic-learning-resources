@@ -49,5 +49,11 @@
 - [Flutter documentation [EN]](https://github.com/SIC-Unud/sic-learning-resources)
 - [Effective dart [EN]](https://dart.dev/guides/language/effective-dart)
 
+### Kotlin
+- [Kotlin documentation [EN]](https://kotlinlang.org/)
+- [Kotlin Learning Resources [EN]](https://github.com/androiddevnotes/awesome-android-learning-resources)
+- [Latest post from Android Professionals and Google Developer Experts [EN]](https://proandroiddev.com/)
+- [Android Kotlin with Philipp Lackner[EN]](https://www.youtube.com/c/PhilippLackner)
+
 ### Design Principle
 - [Desing - Material Design [EN]](https://material.io/design)

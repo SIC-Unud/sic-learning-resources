@@ -7,6 +7,9 @@
 - Design Pattern
   - [Belajar Design Patterns untuk Pemula By Programmer Zaman Now [ID]](https://youtube.com/playlist?list=PL-CtdCApEFH_yiziXrQeogYOJzCmD8XLM)
   - [Atomic Design By Brad Frost [EN]](https://bradfrost.com/blog/post/atomic-web-design/)
+- Database Free Learning Course
+  - https://www.freecodecamp.org/news/free-online-programming-cs-courses/
+  - https://www.classcentral.com/
 ## Backend Development
 ### Programming Languages
 - Go (Golang)

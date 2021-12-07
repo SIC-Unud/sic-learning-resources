@@ -46,6 +46,7 @@
 - [Flexbox in 15 Minutes [EN]](https://www.youtube.com/watch?v=fYq5PXgSsbE&t=483s)
 - [Flexbox Web Programming Unpas [ID]](https://www.youtube.com/watch?v=-J372iDFU8Y)
 - [CSS Grid](https://www.youtube.com/watch?v=uuOXPWCh-6o)
+- [React Hooks](https://dev.to/dev117uday/react-hooks-0-to-hero-4b7o)
 
 ## Mobile Development
 ### Flutter Frameworks
